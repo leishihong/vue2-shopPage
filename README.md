@@ -33,20 +33,10 @@ npm run local (访问本地后台系统，需运行node-elm后台系统)
 
 >  开发环境 macOS 10.12.3  Chrome 56  nodejs 6.10.0
 
->  特别感谢辰妹子[@bailichen](https://github.com/bailichen)，在百忙之中抽出时间和我一起完成了这个项目，辛苦了🌹
-
->  如有问题请直接在 Issues 中提，或者您发现问题并有非常好的解决方案，欢迎 PR 👍
-
->  项目交流群：528447162(QQ)
-
 >  推荐一个 react + redux 开源项目，对react感兴趣的朋友赶紧去看看。[地址在这里](https://github.com/bailicangdu/react-pxq)
 
 >  另外一个 vue2 + vuex 的入门项目，比当前的项目简单很多，非常适合入门练习。[地址在这里](https://github.com/bailicangdu/vue2-happyfri)
 
-
-# 效果演示
-
-### 移动端扫描下方二维码
 
 # 目标功能
 - [x] 定位功能 -- 完成
